@@ -1,4 +1,4 @@
-## Oiii! Gnomox ou Gnomo? um misterio a ser decifrado!
+## Oiii! Eu sou Gnomox ou Gnomo? um misterio a ser decifrado!
 
 <div align="center">
   <a href="https://github.com/DevGnomox">
