@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevGnomox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGnomox&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gnomox-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gnomox-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gnomox-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +15,7 @@
 </div>
 
   ##
-<div align="center" style="display">
+<div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/357645727469535233.png"/>
 </div>
   
