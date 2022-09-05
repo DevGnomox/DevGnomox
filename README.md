@@ -15,7 +15,7 @@
 </div>
 
   ##
-<div>
+<div align="center" style="display">
   <img src="https://discord.c99.nl/widget/theme-3/357645727469535233.png"/>
 </div>
   
