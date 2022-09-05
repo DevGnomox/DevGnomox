@@ -19,7 +19,7 @@
   <img src="https://discord.c99.nl/widget/theme-3/357645727469535233.png"/>
 </div>
   
-  **
+  ##
 
   <div> 
   <a href="https://www.youtube.com/c/GnomoxOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
