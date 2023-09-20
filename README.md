@@ -30,5 +30,10 @@
  <a href="https://discord.gg/YPk4Uy9cNK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://github.com/DevGnomox" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-  
+
+  https://github.com/DevGnomox/DevGnomox/blob/output/github-contribution-grid-snake.gif
   ![Snake animation](https://github.com/DevGnomox/DevGnomox/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevGnomox&repo=DevGnomox&theme=react)](https://github.com/DevGnomox/DevGnomox)
+
+
+  
