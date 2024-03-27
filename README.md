@@ -20,7 +20,7 @@
   ##
   
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/357645727469535233.png">
+  
 </div>
   
   ##
