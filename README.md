@@ -37,6 +37,8 @@
   <img align="center" alt="MySQL" height="50" width="50" src="https://techstack-generator.vercel.app/mysql-icon.svg">
   <img align="center" alt="Django" height="40" width="40" src="https://techstack-generator.vercel.app/django-icon.svg">
   <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Flask" height="40" width="40" src="https://icons8.com.br/icon/ewGOClUtmFX4/flask">
+    
 </div>
 </div>
 
