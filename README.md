@@ -65,4 +65,10 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevGnomox/DevGnomox/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+<br><p align="centre"><b>Você é meu visitante nº</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevGnomox}/count.svg" /></p> 
+<br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082&section=footer&textBg=false"/>
