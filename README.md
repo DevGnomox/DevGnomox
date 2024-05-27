@@ -19,11 +19,30 @@
   <a href="https://discord.gg/YPk4Uy9cNK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/DevGnomox" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-
 #
 
 <div align="center">  
-  <h3>* GitHub Stats *</h3>
+  <h3> GitHub Stats </h3>
+  <div style="display: inline_block"><br>
+   <img align="center" alt="gabi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gabi-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="gabi-python" height="40" width="40" src="https://techstack-generator.vercel.app/python-icon.svg">
+  <img align="center" alt="gabi-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="gabi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabi-Java" height="40" width="40" src="https://techstack-generator.vercel.app/java-icon.svg">
+  <img align="center" alt="gabi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="gabi-github" height="60" width="60" src="https://techstack-generator.vercel.app/github-icon.svg">
+   <img align="center" alt="gabi-Wordpress" height="40" width="40" src="https://skillicons.dev/icons?i=wordpress">
+  <img align="center" alt="gabi-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="gabi-MySQL" height="50" width="50" src="https://techstack-generator.vercel.app/mysql-icon.svg">
+  <img align="center" alt="gabi-JQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="gabi-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+</div>
+#
+
+<div align="center">  
+  <h3> GitHub Stats </h3>
   <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevGnomox&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" alt="ImMael github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGnomox&layout=compact&hide_border=true&title_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" />
