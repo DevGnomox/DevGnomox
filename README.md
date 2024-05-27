@@ -6,8 +6,8 @@
 </div>
 
 <div>
-  - 🎓  Formado em Ciência da Computação
-  - ☕  Estudando JS
+  - 🎓  Formado em Ciência da Computação </br>
+  - ☕  Estudando JS </br>
   - 👨‍💻  Desenvolvedor Full Stack
   <img align="right" alt="" height="190px" src="./src/Gnomox.gif">
 </div>
