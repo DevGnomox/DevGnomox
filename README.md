@@ -1,4 +1,4 @@
-## Oiii! Eu sou Gnomox ou Gnomo? um misterio a ser decifrado!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4B0082&section=header&textBg=false"/>
 
 <div align="center">
   <a href="https://github.com/DevGnomox">
@@ -11,7 +11,7 @@
   <img align="center" alt="Gnomox-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gnomox-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gnomox-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="right" alt="Gnomox-anonimous" height="250" style="border-radius:250px;"src="https://pbs.twimg.com/media/EjqSD82XgAE20MX.jpg">-->
+  <img align="right" alt="Gnomox-anonimous" height="250" style="border-radius:250px;"src="https://pbs.twimg.com/media/EjqSD82XgAE20MX.jpg">
   
 </div>
 
@@ -38,3 +38,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevGnomox/DevGnomox/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevGnomox/DevGnomox/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4B0082&section=footer&textBg=false"/>
