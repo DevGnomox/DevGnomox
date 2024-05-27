@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<div>
+<div></br> 
   - 🎓  Formado em Ciência da Computação </br>
   - ☕  Estudando JS </br>
   - 👨‍💻  Desenvolvedor Full Stack
@@ -13,10 +13,6 @@
 </div>
 
 
-
-
-
-#
 
 
 <div align="center">
