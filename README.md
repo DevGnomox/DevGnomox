@@ -10,8 +10,10 @@
   <img align="right" alt="" height="190px" src="./src/Gnomox.gif">
  
   - 🎓  Formado em Ciência da Computação </br>
-  - ☕  Estudando JS </br>
+  - ☕  Estudando JS e Python </br>
   - 👨‍💻  Desenvolvedor Full Stack
+
+  <img align="left" src="https://discord.c99.nl/widget/theme-3/357645727469535233.png">
 
 
 
