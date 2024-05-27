@@ -22,10 +22,9 @@
 
 #
 
-<div align="center">
-  <a href="https://github.com/DevGnomox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevGnomox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGnomox&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevGnomox&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" alt="ImMael github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGnomox&layout=compact&hide_border=true&title_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 
