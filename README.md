@@ -13,7 +13,7 @@
   - ☕  Estudando JS e Python </br>
   - 👨‍💻  Desenvolvedor Full Stack
 
-  <h3 align="left">Connect with me!</h3>
+  <h3 align="left">Conecte-se comigo!</h3>
 
   <a href="https://www.youtube.com/c/GnomoxOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/YPk4Uy9cNK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -22,7 +22,7 @@
 #
 
 <div align="center">  
-  <h3> GitHub Stats </h3>
+  <h3> Principais Habilidades </h3>
   <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -45,22 +45,17 @@
 #
 
 <div align="center">  
-  <h3> GitHub Stats </h3>
+  <h3> Estatísticas do GitHub </h3>
   <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevGnomox&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" alt="ImMael github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGnomox&layout=compact&hide_border=true&title_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" />
 </div>
-
-
 
 #
   
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/357645727469535233.png">
 </div>
-
-
-
 
 #
 
