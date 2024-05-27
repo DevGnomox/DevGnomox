@@ -12,7 +12,9 @@
   - 👨‍💻  Desenvolvedor Full Stack
   - - 👨‍💻  Desenvolvedor Full Stack
     - - 👨‍💻  Desenvolvedor Full Stack
-
+  - 👨‍💻  Desenvolvedor Full Stack
+  - - 👨‍💻  Desenvolvedor Full Stack
+    - - 👨‍💻  Desenvolvedor Full Stack
 
   <img align="right" alt="" height="190px" src="./src/Gnomox.gif">
 
