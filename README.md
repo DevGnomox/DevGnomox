@@ -1,9 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082&section=header&textBg=false"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4978&pause=1000&color=4B0082&random=false&width=435&lines=Welcome+to+my+profile!+%E2%80%A2%E2%80%BF%E2%80%A2;+My+name+is+Gnomox!;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=35&duration=4978&pause=1000&color=4B0082&random=false&width=435&lines=Welcome+to+my+profile!+%E2%80%A2%E2%80%BF%E2%80%A2;+My+name+is+Gnomox!;I'm+a+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 #
-<img align="right" alt="" height="190px" src="./src/Gnomox.gif">
+<div>
+  <img align="right" alt="" height="190px" src="./src/Gnomox.gif">
+</div>
+
 
 
 
