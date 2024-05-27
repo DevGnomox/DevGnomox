@@ -1,22 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4B0082&section=header&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082&section=header&textBg=false"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4978&pause=1000&color=4B0082&random=false&width=435&lines=Welcome+to+my+profile!+%E2%80%A2%E2%80%BF%E2%80%A2;+My+name+is+Gnomox!;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+
+<img align="right" alt="" height="190px" src="./src/Gnomox.gif">
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/DevGnomox">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevGnomox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGnomox&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gnomox-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gnomox-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gnomox-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gnomox-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gnomox-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gnomox-anonimous" height="250" style="border-radius:250px;"src="https://pbs.twimg.com/media/EjqSD82XgAE20MX.jpg">
-  
-</div>
 
 
-  ##
+
   ##
   
 <div align="center">
@@ -39,4 +40,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevGnomox/DevGnomox/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4B0082&section=footer&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082&section=footer&textBg=false"/>
