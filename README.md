@@ -12,6 +12,7 @@
   - 🎓  Formado em Ciência da Computação </br>
   - ☕  Estudando JS e Python </br>
   - 👨‍💻  Desenvolvedor Full Stack
+  - 🎮  Gamer
 
   <h3 align="left">Conecte-se comigo!</h3>
 
