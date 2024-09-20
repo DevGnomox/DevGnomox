@@ -7,7 +7,7 @@
 
 #
 
-  <img align="right" alt="" height="190px" src="./src/Gnomox.gif">
+  <div><img align="right" alt="" height="190px" src="./src/Gnomox.gif"></div>
  
   - 🎓  Formado em Ciência da Computação </br>
   - ☕  Estudando JS e Python </br>
