@@ -7,11 +7,11 @@
 
 #
 
-<div style="display: flex; align-items: flex-start;">
-  <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
+  <img alt="Gnomox GIF" height="190px" src="./src/Gnomox.gif" style="margin-right: 20px;">
   
   <div>
-    <ul style="list-style: none; padding: 0;">
+    <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🎓 Formado em Ciência da Computação</li>
       <li>☕ Estudando JS e Python</li>
       <li>👨‍💻 Desenvolvedor Full Stack</li>
