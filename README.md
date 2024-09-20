@@ -7,13 +7,18 @@
 
 #
 
-  <div><img align="right" alt="" height="190px" src="./src/Gnomox.gif"></div>
+ <div style="display: flex; align-items: flex-start;">
+  <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-left: 10px;">
  
-  - 🎓  Formado em Ciência da Computação </br>
-  - ☕  Estudando JS e Python </br>
-  - 👨‍💻  Desenvolvedor Full Stack
-  - 🎮  Gamer
-
+  <div>
+      <ul>
+        <li>🎓 Formado em Ciência da Computação</li>
+        <li>☕ Estudando JS e Python</li>
+        <li>👨‍💻 Desenvolvedor Full Stack</li>
+        <li>🎮 Gamer</li>
+      </ul>
+  </div>
+  </div>
   <h3 align="left">Conecte-se comigo!</h3>
 
   <a href="https://www.youtube.com/c/GnomoxOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
