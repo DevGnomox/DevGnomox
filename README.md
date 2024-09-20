@@ -8,7 +8,7 @@
 #
 
  <div style="display: flex; align-items: flex-start;">
-  <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-left: 10px;">
+  <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-right: 10px;">
  
   <div>
       <ul>
