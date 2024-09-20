@@ -8,7 +8,7 @@
 #
 
 <div style="overflow: hidden;">
-  <img style="float: right; margin-left: 10px;" alt="" height="190px" src="./src/Gnomox.gif">
+  <img style="float: right; margin-left: 100px;" alt="" height="190px" src="./src/Gnomox.gif">
   
   <ul>
     <li>🎓 Formado em Ciência da Computação</li>
