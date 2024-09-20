@@ -8,9 +8,8 @@
 #
 
 <div style="display: flex; align-items: flex-start;">
-  <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-right: 20px;">
-  
-  <ul>
+    <ul>
+    <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-right: 20px;">
     <li>🎓 Formado em Ciência da Computação</li>
     <li>☕ Estudando JS e Python</li>
     <li>👨‍💻 Desenvolvedor Full Stack</li>
