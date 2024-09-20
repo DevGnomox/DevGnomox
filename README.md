@@ -8,13 +8,16 @@
 #
 
 <div style="display: flex; align-items: flex-start;">
-    <ul>
-    <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-right: 20px;">
-    <li>🎓 Formado em Ciência da Computação</li>
-    <li>☕ Estudando JS e Python</li>
-    <li>👨‍💻 Desenvolvedor Full Stack</li>
-    <li>🎮 Gamer</li>
-  </ul>
+  <img alt="" height="190px" src="./src/Gnomox.gif" style="margin-right: 20px;">
+  
+  <div>
+    <ul style="list-style: none; padding: 0;">
+      <li>🎓 Formado em Ciência da Computação</li>
+      <li>☕ Estudando JS e Python</li>
+      <li>👨‍💻 Desenvolvedor Full Stack</li>
+      <li>🎮 Gamer</li>
+    </ul>
+  </div>
 </div>
   <h3 align="left">Conecte-se comigo!</h3>
 
