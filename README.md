@@ -13,6 +13,7 @@
   - ☕  Estudando JS e Python </br>
   - 👨‍💻  Desenvolvedor Full Stack
   - 🎮  Gamer
+  - 🎮  Gamer
   <h3 align="left">Conecte-se comigo!</h3>
 
   <a href="https://www.youtube.com/c/GnomoxOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
