@@ -52,12 +52,12 @@
 </div>
 
 #
-  
+<!--
 <div align="center">
   <h3>Discord</h3>
   <img src="https://discord.c99.nl/widget/theme-3/357645727469535233.png">
 </div>
-
+-->
 #
 <!-- Novo contador https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevGnomox&s=50&c=8000ff&bg=00000000&no=8&ff=digii&tb=&ta= -->
 <!-- Antigo ontador https://profile-counter.glitch.me/{DevGnomox}/count.svg  Esta off -->
