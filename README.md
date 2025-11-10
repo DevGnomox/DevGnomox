@@ -66,7 +66,6 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevGnomox&s=50&c=8000ff&bg=00000000&no=8&ff=digii&tb=&ta=" /></p> 
   <br>
 </div>
-![Visitor Count](https://seuservidor.com/counter.png?page=GitHub/DevGnomox&color=8000ff&bg=00000000&no=8&ff=digii&tb=&ta=)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevGnomox/DevGnomox/output/github-contribution-grid-snake-dark.svg">
