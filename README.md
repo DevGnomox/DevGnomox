@@ -65,6 +65,7 @@
   <br><p align="centre"><b>Você é meu visitante nº</b></p>  
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevGnomox&s=50&c=8000ff&bg=00000000&no=8&ff=digii&tb=&ta=" /></p> 
   <br>
+  ![](https://komarev.com/ghpvc/?username=SeuUsuario)
 </div>
 
 <picture align="center">
