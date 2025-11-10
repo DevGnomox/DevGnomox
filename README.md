@@ -63,7 +63,7 @@
 <!-- Antigo ontador https://profile-counter.glitch.me/{DevGnomox}/count.svg  Esta off -->
 <div align="center">
   <br><p align="centre"><b>Você é meu visitante nº</b></p>  
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=DevGnomox" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=DevGnomox&style=for-the-badge&color=blueviolet" /></p> 
   <br>
 </div>
 
